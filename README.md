@@ -3,7 +3,7 @@ Efficient Proof Reader
 Efficient Proof Reader is a compare and merge tool which employs an efficient method to proof reader a file if a similar file is available for compare. In many real world situations we come across such scenarios. Many document archiving strategies requires digitization of the documents. In such cases, ensuring the accuracy of the data, just relying on the manual keyed in text may not be ideal. At the same time, the reliability of the digitally retrieved data may not be good enough. One can easily compare these two files to find out where exactly have issues in the file. 
 There are many tools available for such comparisons. However, they still require someone to go through the entire file, often correcting the same mistakes in different part of the file. The Efficient Proof Reader provides a better alternate.
 
-Algorithm
+	Algorithm
 		Read both files 
 		Align them 
 		Compare each aligned blocks
